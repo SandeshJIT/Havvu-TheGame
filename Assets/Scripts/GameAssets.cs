@@ -1,4 +1,6 @@
-﻿using System.Collections;
+﻿
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -10,7 +12,8 @@ public class GameAssets : MonoBehaviour
     private void Awake() {
         i = this;
     }
-
+    
     public Sprite snakeHeadSprite;
+    public Sprite foodSprite,snakeBodySprite,sSprite;
 
 }

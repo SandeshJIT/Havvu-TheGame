@@ -1,0 +1,2498 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-11-08T04:43:01.702+05:30
+  initializedAtString: 2020-11-08T03:50:13.630+05:30
+  entries:
+  - path: Assets\Food.prefab
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Food.prefab
+    projectPath: Assets\Food.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Food.prefab.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Food.prefab.meta
+    projectPath: Assets\Food.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio.meta
+    projectPath: Assets\Gameathon Audio.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\AUD-20201107-WA0011.aac
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\AUD-20201107-WA0011.aac
+    projectPath: Assets\Gameathon Audio\AUD-20201107-WA0011.aac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\AUD-20201107-WA0011.aac.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\AUD-20201107-WA0011.aac.meta
+    projectPath: Assets\Gameathon Audio\AUD-20201107-WA0011.aac.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\choking gag 2 sound effect AETrim1604774175329.mp3
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\choking
+      gag 2 sound effect AETrim1604774175329.mp3
+    projectPath: Assets\Gameathon Audio\choking gag 2 sound effect AETrim1604774175329.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\choking gag 2 sound effect AETrim1604774175329.mp3.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\choking
+      gag 2 sound effect AETrim1604774175329.mp3.meta
+    projectPath: Assets\Gameathon Audio\choking gag 2 sound effect AETrim1604774175329.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\death AETrim1604775414461_1.mp3
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\death
+      AETrim1604775414461_1.mp3
+    projectPath: Assets\Gameathon Audio\death AETrim1604775414461_1.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\death AETrim1604775414461_1.mp3.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\death
+      AETrim1604775414461_1.mp3.meta
+    projectPath: Assets\Gameathon Audio\death AETrim1604775414461_1.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\death.mp3
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\death.mp3
+    projectPath: Assets\Gameathon Audio\death.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\death.mp3.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\death.mp3.meta
+    projectPath: Assets\Gameathon Audio\death.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\eat correct 2.mp3
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\eat
+      correct 2.mp3
+    projectPath: Assets\Gameathon Audio\eat correct 2.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\eat correct 2.mp3.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\eat
+      correct 2.mp3.meta
+    projectPath: Assets\Gameathon Audio\eat correct 2.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\eat correct.mp3
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\eat
+      correct.mp3
+    projectPath: Assets\Gameathon Audio\eat correct.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\eat correct.mp3.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\eat
+      correct.mp3.meta
+    projectPath: Assets\Gameathon Audio\eat correct.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\eat wrong .mp3
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\eat
+      wrong .mp3
+    projectPath: Assets\Gameathon Audio\eat wrong .mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\eat wrong .mp3.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\eat
+      wrong .mp3.meta
+    projectPath: Assets\Gameathon Audio\eat wrong .mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\level 1.mp3
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\level
+      1.mp3
+    projectPath: Assets\Gameathon Audio\level 1.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\level 1.mp3.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\level
+      1.mp3.meta
+    projectPath: Assets\Gameathon Audio\level 1.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\level 2.mp3
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\level
+      2.mp3
+    projectPath: Assets\Gameathon Audio\level 2.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\level 2.mp3.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\level
+      2.mp3.meta
+    projectPath: Assets\Gameathon Audio\level 2.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\level 3.mp3
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\level
+      3.mp3
+    projectPath: Assets\Gameathon Audio\level 3.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\level 3.mp3.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\level
+      3.mp3.meta
+    projectPath: Assets\Gameathon Audio\level 3.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\menu.mp3
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\menu.mp3
+    projectPath: Assets\Gameathon Audio\menu.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\menu.mp3.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\menu.mp3.meta
+    projectPath: Assets\Gameathon Audio\menu.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\story.mp3
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\story.mp3
+    projectPath: Assets\Gameathon Audio\story.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\story.mp3.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\story.mp3.meta
+    projectPath: Assets\Gameathon Audio\story.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\victory.mp3
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\victory.mp3
+    projectPath: Assets\Gameathon Audio\victory.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Gameathon Audio\victory.mp3.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Gameathon Audio\victory.mp3.meta
+    projectPath: Assets\Gameathon Audio\victory.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Material.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Material.meta
+    projectPath: Assets\Material.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Material\New Material.mat
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Material\New
+      Material.mat
+    projectPath: Assets\Material\New Material.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Material\New Material.mat.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Material\New
+      Material.mat.meta
+    projectPath: Assets\Material\New Material.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Music.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Music.meta
+    projectPath: Assets\Music.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Music\WhatsApp Audio 2020-11-07 at 4.14.28 PM (online-audio-converter.com).mp3
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Music\WhatsApp
+      Audio 2020-11-07 at 4.14.28 PM (online-audio-converter.com).mp3
+    projectPath: Assets\Music\WhatsApp Audio 2020-11-07 at 4.14.28 PM (online-audio-converter.com).mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Music\WhatsApp Audio 2020-11-07 at 4.14.28 PM (online-audio-converter.com).mp3.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Music\WhatsApp
+      Audio 2020-11-07 at 4.14.28 PM (online-audio-converter.com).mp3.meta
+    projectPath: Assets\Music\WhatsApp Audio 2020-11-07 at 4.14.28 PM (online-audio-converter.com).mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Prefabs.meta
+    projectPath: Assets\Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Level 1 Game Handler.prefab
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Prefabs\Level
+      1 Game Handler.prefab
+    projectPath: Assets\Prefabs\Level 1 Game Handler.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Level 1 Game Handler.prefab.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Prefabs\Level
+      1 Game Handler.prefab.meta
+    projectPath: Assets\Prefabs\Level 1 Game Handler.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Level 2 GameHandler.prefab
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Prefabs\Level
+      2 GameHandler.prefab
+    projectPath: Assets\Prefabs\Level 2 GameHandler.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Level 2 GameHandler.prefab.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Prefabs\Level
+      2 GameHandler.prefab.meta
+    projectPath: Assets\Prefabs\Level 2 GameHandler.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Snake.prefab
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Prefabs\Snake.prefab
+    projectPath: Assets\Prefabs\Snake.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Snake.prefab.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Prefabs\Snake.prefab.meta
+    projectPath: Assets\Prefabs\Snake.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\GameScene.unity
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Scenes\GameScene.unity
+    projectPath: Assets\Scenes\GameScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scenes\GameScene.unity.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Scenes\GameScene.unity.meta
+    projectPath: Assets\Scenes\GameScene.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scenes\Level 1.unity
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Scenes\Level
+      1.unity
+    projectPath: Assets\Scenes\Level 1.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Level 1.unity.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Scenes\Level
+      1.unity.meta
+    projectPath: Assets\Scenes\Level 1.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Level 2.unity
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Scenes\Level
+      2.unity
+    projectPath: Assets\Scenes\Level 2.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Level 2.unity.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Scenes\Level
+      2.unity.meta
+    projectPath: Assets\Scenes\Level 2.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Loading.unity
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Scenes\Loading.unity
+    projectPath: Assets\Scenes\Loading.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Loading.unity.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Scenes\Loading.unity.meta
+    projectPath: Assets\Scenes\Loading.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\GameAssets.cs
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Scripts\GameAssets.cs
+    projectPath: Assets\Scripts\GameAssets.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\GameHandler.cs
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Scripts\GameHandler.cs
+    projectPath: Assets\Scripts\GameHandler.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\GameHandler1.cs
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Scripts\GameHandler1.cs
+    projectPath: Assets\Scripts\GameHandler1.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\GameHandler1.cs.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Scripts\GameHandler1.cs.meta
+    projectPath: Assets\Scripts\GameHandler1.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\LevelGrid.cs
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Scripts\LevelGrid.cs
+    projectPath: Assets\Scripts\LevelGrid.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\LevelGrid.cs.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Scripts\LevelGrid.cs.meta
+    projectPath: Assets\Scripts\LevelGrid.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\LevelGrid1.cs
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Scripts\LevelGrid1.cs
+    projectPath: Assets\Scripts\LevelGrid1.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\LevelGrid1.cs.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Scripts\LevelGrid1.cs.meta
+    projectPath: Assets\Scripts\LevelGrid1.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\LoadLevel2.cs
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Scripts\LoadLevel2.cs
+    projectPath: Assets\Scripts\LoadLevel2.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\LoadLevel2.cs.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Scripts\LoadLevel2.cs.meta
+    projectPath: Assets\Scripts\LoadLevel2.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Snake.cs
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Scripts\Snake.cs
+    projectPath: Assets\Scripts\Snake.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Snake.cs.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Scripts\Snake.cs.meta
+    projectPath: Assets\Scripts\Snake.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Snake1.cs
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Scripts\Snake1.cs
+    projectPath: Assets\Scripts\Snake1.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Snake1.cs.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Scripts\Snake1.cs.meta
+    projectPath: Assets\Scripts\Snake1.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Timer.cs
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Scripts\Timer.cs
+    projectPath: Assets\Scripts\Timer.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Timer.cs.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Scripts\Timer.cs.meta
+    projectPath: Assets\Scripts\Timer.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\Background Level 1.psd
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\Background
+      Level 1.psd
+    projectPath: Assets\Textures\Background Level 1.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\Background Level 1.psd.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\Background
+      Level 1.psd.meta
+    projectPath: Assets\Textures\Background Level 1.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\Body new blue and red@2x.png
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\Body
+      new blue and red@2x.png
+    projectPath: Assets\Textures\Body new blue and red@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\Body new blue and red@2x.png.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\Body
+      new blue and red@2x.png.meta
+    projectPath: Assets\Textures\Body new blue and red@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\Body try@2x.png
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\Body
+      try@2x.png
+    projectPath: Assets\Textures\Body try@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\Body try@2x.png.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\Body
+      try@2x.png.meta
+    projectPath: Assets\Textures\Body try@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\chech again@2x.png
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\chech
+      again@2x.png
+    projectPath: Assets\Textures\chech again@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\chech again@2x.png.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\chech
+      again@2x.png.meta
+    projectPath: Assets\Textures\chech again@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\Level 1 Background .png
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\Level
+      1 Background .png
+    projectPath: Assets\Textures\Level 1 Background .png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\Level 1 Background .png.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\Level
+      1 Background .png.meta
+    projectPath: Assets\Textures\Level 1 Background .png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\Level 2 Background .png
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\Level
+      2 Background .png
+    projectPath: Assets\Textures\Level 2 Background .png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\Level 2 Background .png.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\Level
+      2 Background .png.meta
+    projectPath: Assets\Textures\Level 2 Background .png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\New blu face@2x.png
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\New
+      blu face@2x.png
+    projectPath: Assets\Textures\New blu face@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\New blu face@2x.png.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\New
+      blu face@2x.png.meta
+    projectPath: Assets\Textures\New blu face@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\New Level 1 ng.png
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\New
+      Level 1 ng.png
+    projectPath: Assets\Textures\New Level 1 ng.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\New Level 1 ng.png.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\New
+      Level 1 ng.png.meta
+    projectPath: Assets\Textures\New Level 1 ng.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\Potion@2x.png
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\Potion@2x.png
+    projectPath: Assets\Textures\Potion@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\Potion@2x.png.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\Potion@2x.png.meta
+    projectPath: Assets\Textures\Potion@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\Snake bg.psd
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\Snake
+      bg.psd
+    projectPath: Assets\Textures\Snake bg.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\Snake bg.psd.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\Snake
+      bg.psd.meta
+    projectPath: Assets\Textures\Snake bg.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\Snake Body Final@2x.png
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\Snake
+      Body Final@2x.png
+    projectPath: Assets\Textures\Snake Body Final@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\Snake Body Final@2x.png.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\Snake
+      Body Final@2x.png.meta
+    projectPath: Assets\Textures\Snake Body Final@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\Snake Head Final@2x.png
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\Snake
+      Head Final@2x.png
+    projectPath: Assets\Textures\Snake Head Final@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\Snake Head Final@2x.png.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\Snake
+      Head Final@2x.png.meta
+    projectPath: Assets\Textures\Snake Head Final@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\SnakeBody.png
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\SnakeBody.png
+    projectPath: Assets\Textures\SnakeBody.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\SnakeBody.png.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\SnakeBody.png.meta
+    projectPath: Assets\Textures\SnakeBody.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\SnakeHead.png
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\SnakeHead.png
+    projectPath: Assets\Textures\SnakeHead.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\SnakeHead.png.meta
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Assets\Textures\SnakeHead.png.meta
+    projectPath: Assets\Textures\SnakeHead.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ArtifactDB
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\00\008c237a1cee37e67c1f2aa4b29042e4
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\00\008c237a1cee37e67c1f2aa4b29042e4
+    projectPath: Library\Artifacts\00\008c237a1cee37e67c1f2aa4b29042e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\00\00e2c87485b72b9a61ca11c5634749cf
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\00\00e2c87485b72b9a61ca11c5634749cf
+    projectPath: Library\Artifacts\00\00e2c87485b72b9a61ca11c5634749cf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\01\0128f302f5cbf1868a2e119145d2730c
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\01\0128f302f5cbf1868a2e119145d2730c
+    projectPath: Library\Artifacts\01\0128f302f5cbf1868a2e119145d2730c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\01\016488d2f42c8136d5daf657f0e445ee
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\01\016488d2f42c8136d5daf657f0e445ee
+    projectPath: Library\Artifacts\01\016488d2f42c8136d5daf657f0e445ee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\02\02435915d78929a0b8e25d986fd662db
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\02\02435915d78929a0b8e25d986fd662db
+    projectPath: Library\Artifacts\02\02435915d78929a0b8e25d986fd662db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\05\05722e845e2dcb25de3ea31baf68c136
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\05\05722e845e2dcb25de3ea31baf68c136
+    projectPath: Library\Artifacts\05\05722e845e2dcb25de3ea31baf68c136
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\09\097f8fed80c72ce43bd81b3fefaa1590
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\09\097f8fed80c72ce43bd81b3fefaa1590
+    projectPath: Library\Artifacts\09\097f8fed80c72ce43bd81b3fefaa1590
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0a\0a67a7e6e8b04d52fd94b1c68f377b00
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\0a\0a67a7e6e8b04d52fd94b1c68f377b00
+    projectPath: Library\Artifacts\0a\0a67a7e6e8b04d52fd94b1c68f377b00
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\0d\0d9bbdb855e36371f419160cd13be020
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\0d\0d9bbdb855e36371f419160cd13be020
+    projectPath: Library\Artifacts\0d\0d9bbdb855e36371f419160cd13be020
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0e\0e886b7fd65213c0ac28a9e55e613143
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\0e\0e886b7fd65213c0ac28a9e55e613143
+    projectPath: Library\Artifacts\0e\0e886b7fd65213c0ac28a9e55e613143
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\14\1439ad6173b1b5e017407fc2e07cc15d
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\14\1439ad6173b1b5e017407fc2e07cc15d
+    projectPath: Library\Artifacts\14\1439ad6173b1b5e017407fc2e07cc15d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\16\16c4f2a9436926896feb926ea4de2066
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\16\16c4f2a9436926896feb926ea4de2066
+    projectPath: Library\Artifacts\16\16c4f2a9436926896feb926ea4de2066
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\18\1842781d99389f32e4c103e634dfedea
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\18\1842781d99389f32e4c103e634dfedea
+    projectPath: Library\Artifacts\18\1842781d99389f32e4c103e634dfedea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1b\1be89f7b3d630583ad0e4764e672399c
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\1b\1be89f7b3d630583ad0e4764e672399c
+    projectPath: Library\Artifacts\1b\1be89f7b3d630583ad0e4764e672399c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\20\200802b0b56a271aefcd1076699602b0
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\20\200802b0b56a271aefcd1076699602b0
+    projectPath: Library\Artifacts\20\200802b0b56a271aefcd1076699602b0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\20\20167b9a610fb9d5a23f7490e655ec99
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\20\20167b9a610fb9d5a23f7490e655ec99
+    projectPath: Library\Artifacts\20\20167b9a610fb9d5a23f7490e655ec99
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\20\202dae51a1576b6ae2c4913154213444
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\20\202dae51a1576b6ae2c4913154213444
+    projectPath: Library\Artifacts\20\202dae51a1576b6ae2c4913154213444
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\26\2615f3978dbba0855c80742583681edf
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\26\2615f3978dbba0855c80742583681edf
+    projectPath: Library\Artifacts\26\2615f3978dbba0855c80742583681edf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\28\28a63ef0100f06be070d7f4026736f2d
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\28\28a63ef0100f06be070d7f4026736f2d
+    projectPath: Library\Artifacts\28\28a63ef0100f06be070d7f4026736f2d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\28\28fbeb8ca5e7a14a41475cc15420d45c
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\28\28fbeb8ca5e7a14a41475cc15420d45c
+    projectPath: Library\Artifacts\28\28fbeb8ca5e7a14a41475cc15420d45c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2b\2b4b8a531c95f61528b3e7d7c4d2f364
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\2b\2b4b8a531c95f61528b3e7d7c4d2f364
+    projectPath: Library\Artifacts\2b\2b4b8a531c95f61528b3e7d7c4d2f364
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2b\2b5f0892f27fda53f8ba9fed4f63c7b0
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\2b\2b5f0892f27fda53f8ba9fed4f63c7b0
+    projectPath: Library\Artifacts\2b\2b5f0892f27fda53f8ba9fed4f63c7b0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2c\2c63e00fc62d4a3f9e671fcf4297636c
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\2c\2c63e00fc62d4a3f9e671fcf4297636c
+    projectPath: Library\Artifacts\2c\2c63e00fc62d4a3f9e671fcf4297636c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2d\2d7d6acdc1c67132e37467018a2dcb71
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\2d\2d7d6acdc1c67132e37467018a2dcb71
+    projectPath: Library\Artifacts\2d\2d7d6acdc1c67132e37467018a2dcb71
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2f\2f017261188f10139124bf47e8fefdad
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\2f\2f017261188f10139124bf47e8fefdad
+    projectPath: Library\Artifacts\2f\2f017261188f10139124bf47e8fefdad
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\30\30022c0e58b6f6c2208c42ec759126f4
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\30\30022c0e58b6f6c2208c42ec759126f4
+    projectPath: Library\Artifacts\30\30022c0e58b6f6c2208c42ec759126f4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\30\300b73f397f8556ddbce9007806a9a04
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\30\300b73f397f8556ddbce9007806a9a04
+    projectPath: Library\Artifacts\30\300b73f397f8556ddbce9007806a9a04
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\30\3075aceb5b04d621e86faf5d42b15e21
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\30\3075aceb5b04d621e86faf5d42b15e21
+    projectPath: Library\Artifacts\30\3075aceb5b04d621e86faf5d42b15e21
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\31\31b38d7c14ab5a62eef0e4163476824c
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\31\31b38d7c14ab5a62eef0e4163476824c
+    projectPath: Library\Artifacts\31\31b38d7c14ab5a62eef0e4163476824c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\32\328417571f53542b763b497cf29048a0
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\32\328417571f53542b763b497cf29048a0
+    projectPath: Library\Artifacts\32\328417571f53542b763b497cf29048a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\33\3378babd1b0883a4adf11c6285ee19e4
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\33\3378babd1b0883a4adf11c6285ee19e4
+    projectPath: Library\Artifacts\33\3378babd1b0883a4adf11c6285ee19e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\33\33ebe7548a43cd1f0e09e1447ebcad15
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\33\33ebe7548a43cd1f0e09e1447ebcad15
+    projectPath: Library\Artifacts\33\33ebe7548a43cd1f0e09e1447ebcad15
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\34\341582f006d128d6a94fbd55e637f829
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\34\341582f006d128d6a94fbd55e637f829
+    projectPath: Library\Artifacts\34\341582f006d128d6a94fbd55e637f829
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\38\38e7da62fe8fa6c6df6718c908095844
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\38\38e7da62fe8fa6c6df6718c908095844
+    projectPath: Library\Artifacts\38\38e7da62fe8fa6c6df6718c908095844
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\3a\3ab4af0375b5e03b935ffcbba00e3c99
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\3a\3ab4af0375b5e03b935ffcbba00e3c99
+    projectPath: Library\Artifacts\3a\3ab4af0375b5e03b935ffcbba00e3c99
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3c\3ce6f735159a5f2b6300e0241dd1a591
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\3c\3ce6f735159a5f2b6300e0241dd1a591
+    projectPath: Library\Artifacts\3c\3ce6f735159a5f2b6300e0241dd1a591
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3d\3d9a9078c6e674bf6c157b54cc7d8572
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\3d\3d9a9078c6e674bf6c157b54cc7d8572
+    projectPath: Library\Artifacts\3d\3d9a9078c6e674bf6c157b54cc7d8572
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\40\40332c700bb14c78c9904b4da12d8da7
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\40\40332c700bb14c78c9904b4da12d8da7
+    projectPath: Library\Artifacts\40\40332c700bb14c78c9904b4da12d8da7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\42\42ecdda8c533b57223c970412cccde7d
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\42\42ecdda8c533b57223c970412cccde7d
+    projectPath: Library\Artifacts\42\42ecdda8c533b57223c970412cccde7d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\44\44eb342a3d992d2ee757d94b616bfb97
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\44\44eb342a3d992d2ee757d94b616bfb97
+    projectPath: Library\Artifacts\44\44eb342a3d992d2ee757d94b616bfb97
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\46\46d8f45641f8244fce631899d8815b2c
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\46\46d8f45641f8244fce631899d8815b2c
+    projectPath: Library\Artifacts\46\46d8f45641f8244fce631899d8815b2c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\47\47c434e9e522e81f7a700ee7c3d12c1e
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\47\47c434e9e522e81f7a700ee7c3d12c1e
+    projectPath: Library\Artifacts\47\47c434e9e522e81f7a700ee7c3d12c1e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4a\4a6e12d5f5fb46b04bf7013737b19d6d
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\4a\4a6e12d5f5fb46b04bf7013737b19d6d
+    projectPath: Library\Artifacts\4a\4a6e12d5f5fb46b04bf7013737b19d6d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4c\4c947c37a335f5b7f6e2a17fc8ae77ad
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\4c\4c947c37a335f5b7f6e2a17fc8ae77ad
+    projectPath: Library\Artifacts\4c\4c947c37a335f5b7f6e2a17fc8ae77ad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4c\4cd7b32e53679e350a91c9a8c6ac69e6
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\4c\4cd7b32e53679e350a91c9a8c6ac69e6
+    projectPath: Library\Artifacts\4c\4cd7b32e53679e350a91c9a8c6ac69e6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4d\4dd53531366b8ba502ae4be7551982ae
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\4d\4dd53531366b8ba502ae4be7551982ae
+    projectPath: Library\Artifacts\4d\4dd53531366b8ba502ae4be7551982ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4f\4ff86f840d47b57bd8bfbde276ebf072
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\4f\4ff86f840d47b57bd8bfbde276ebf072
+    projectPath: Library\Artifacts\4f\4ff86f840d47b57bd8bfbde276ebf072
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\50\506e07700f9b1207a8371319a8e2e984
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\50\506e07700f9b1207a8371319a8e2e984
+    projectPath: Library\Artifacts\50\506e07700f9b1207a8371319a8e2e984
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\53\53c9a05857a9049d27ceb12f977f9c02
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\53\53c9a05857a9049d27ceb12f977f9c02
+    projectPath: Library\Artifacts\53\53c9a05857a9049d27ceb12f977f9c02
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\54\548fa2e353773d63a1827a5b803acf30
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\54\548fa2e353773d63a1827a5b803acf30
+    projectPath: Library\Artifacts\54\548fa2e353773d63a1827a5b803acf30
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\55\55c19c491ed995746fefb123ea06ef17
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\55\55c19c491ed995746fefb123ea06ef17
+    projectPath: Library\Artifacts\55\55c19c491ed995746fefb123ea06ef17
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\56\56793f1f93252223fa12a48e606dd2be
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\56\56793f1f93252223fa12a48e606dd2be
+    projectPath: Library\Artifacts\56\56793f1f93252223fa12a48e606dd2be
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\56\56ca5e090d380920836bb149b77d87cc
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\56\56ca5e090d380920836bb149b77d87cc
+    projectPath: Library\Artifacts\56\56ca5e090d380920836bb149b77d87cc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\57\57be563f7d6e4e44d51a6151d68cdccc
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\57\57be563f7d6e4e44d51a6151d68cdccc
+    projectPath: Library\Artifacts\57\57be563f7d6e4e44d51a6151d68cdccc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\58\5826f5a68b0043ae5389904cf4e693ee
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\58\5826f5a68b0043ae5389904cf4e693ee
+    projectPath: Library\Artifacts\58\5826f5a68b0043ae5389904cf4e693ee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\58\58f2c1808aa55b96456f3e084f2ce2d4
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\58\58f2c1808aa55b96456f3e084f2ce2d4
+    projectPath: Library\Artifacts\58\58f2c1808aa55b96456f3e084f2ce2d4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\5a\5a355151372241a08cee217ed244d539
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\5a\5a355151372241a08cee217ed244d539
+    projectPath: Library\Artifacts\5a\5a355151372241a08cee217ed244d539
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5a\5a55ee93428c1b02950e5f4a588e7cda
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\5a\5a55ee93428c1b02950e5f4a588e7cda
+    projectPath: Library\Artifacts\5a\5a55ee93428c1b02950e5f4a588e7cda
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5b\5b3c0a29a7bddb812f3ee38a108390e1
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\5b\5b3c0a29a7bddb812f3ee38a108390e1
+    projectPath: Library\Artifacts\5b\5b3c0a29a7bddb812f3ee38a108390e1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5b\5bf8677221e81e807671be2362f0a563
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\5b\5bf8677221e81e807671be2362f0a563
+    projectPath: Library\Artifacts\5b\5bf8677221e81e807671be2362f0a563
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5e\5e619061bd5464630f56f1ae70a8c0dc
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\5e\5e619061bd5464630f56f1ae70a8c0dc
+    projectPath: Library\Artifacts\5e\5e619061bd5464630f56f1ae70a8c0dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5e\5e7cfe0355acc6047230d75ddcf4bf5e
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\5e\5e7cfe0355acc6047230d75ddcf4bf5e
+    projectPath: Library\Artifacts\5e\5e7cfe0355acc6047230d75ddcf4bf5e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\5e\5ea6eeb37eaed4e613ef8316de89a6fd
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\5e\5ea6eeb37eaed4e613ef8316de89a6fd
+    projectPath: Library\Artifacts\5e\5ea6eeb37eaed4e613ef8316de89a6fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5e\5ecd6e57b06f2c9c69f113e217ff95cd
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\5e\5ecd6e57b06f2c9c69f113e217ff95cd
+    projectPath: Library\Artifacts\5e\5ecd6e57b06f2c9c69f113e217ff95cd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\5f\5f14099bbc7d639fccbeca0ff8449fd2
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\5f\5f14099bbc7d639fccbeca0ff8449fd2
+    projectPath: Library\Artifacts\5f\5f14099bbc7d639fccbeca0ff8449fd2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\60\603a80aa19dc32db1dd1633398a86c6c
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\60\603a80aa19dc32db1dd1633398a86c6c
+    projectPath: Library\Artifacts\60\603a80aa19dc32db1dd1633398a86c6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\61\61180c985728fabe348b8124fc72754b
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\61\61180c985728fabe348b8124fc72754b
+    projectPath: Library\Artifacts\61\61180c985728fabe348b8124fc72754b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\62\623a9233f27b47656fe05268793206e6
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\62\623a9233f27b47656fe05268793206e6
+    projectPath: Library\Artifacts\62\623a9233f27b47656fe05268793206e6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\63\6362a85010e4b9acfcedd663c7d9624c
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\63\6362a85010e4b9acfcedd663c7d9624c
+    projectPath: Library\Artifacts\63\6362a85010e4b9acfcedd663c7d9624c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\64\64a446dda33c87c6ae145aac5b92268d
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\64\64a446dda33c87c6ae145aac5b92268d
+    projectPath: Library\Artifacts\64\64a446dda33c87c6ae145aac5b92268d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\68\680b011060df9b0bf85f2120084f74de
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\68\680b011060df9b0bf85f2120084f74de
+    projectPath: Library\Artifacts\68\680b011060df9b0bf85f2120084f74de
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\68\680e60e19c0a50ac3d1b0c7cd66aa548
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\68\680e60e19c0a50ac3d1b0c7cd66aa548
+    projectPath: Library\Artifacts\68\680e60e19c0a50ac3d1b0c7cd66aa548
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\68\68f9fe18fc9259bd854349313f7fa9bf
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\68\68f9fe18fc9259bd854349313f7fa9bf
+    projectPath: Library\Artifacts\68\68f9fe18fc9259bd854349313f7fa9bf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6a\6a347c549ff54d4b69acc4c119adda26
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\6a\6a347c549ff54d4b69acc4c119adda26
+    projectPath: Library\Artifacts\6a\6a347c549ff54d4b69acc4c119adda26
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\6d\6dc248e9371b4730e655695a78b13611
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\6d\6dc248e9371b4730e655695a78b13611
+    projectPath: Library\Artifacts\6d\6dc248e9371b4730e655695a78b13611
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\71\7109efa5f0d5a8393e6bb2284abb0977
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\71\7109efa5f0d5a8393e6bb2284abb0977
+    projectPath: Library\Artifacts\71\7109efa5f0d5a8393e6bb2284abb0977
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\72\720337f88683c90be169e392f3f86636
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\72\720337f88683c90be169e392f3f86636
+    projectPath: Library\Artifacts\72\720337f88683c90be169e392f3f86636
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\72\721a96394a6146523ffe6a9d15f4bf55
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\72\721a96394a6146523ffe6a9d15f4bf55
+    projectPath: Library\Artifacts\72\721a96394a6146523ffe6a9d15f4bf55
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\73\733856ebbae1b62c1b37e4ae1fcb1e46
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\73\733856ebbae1b62c1b37e4ae1fcb1e46
+    projectPath: Library\Artifacts\73\733856ebbae1b62c1b37e4ae1fcb1e46
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\74\7467d3a1d6b571968b2acecd31340a18
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\74\7467d3a1d6b571968b2acecd31340a18
+    projectPath: Library\Artifacts\74\7467d3a1d6b571968b2acecd31340a18
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\75\751445bf045d826b3f82902b8aadb720
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\75\751445bf045d826b3f82902b8aadb720
+    projectPath: Library\Artifacts\75\751445bf045d826b3f82902b8aadb720
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\77\772476072468636d25767d8affc1fa41
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\77\772476072468636d25767d8affc1fa41
+    projectPath: Library\Artifacts\77\772476072468636d25767d8affc1fa41
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\77\77298d4073c1d668efa6c71f8b761653
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\77\77298d4073c1d668efa6c71f8b761653
+    projectPath: Library\Artifacts\77\77298d4073c1d668efa6c71f8b761653
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\79\7941660ac7393746f1f091ccc0ac82be
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\79\7941660ac7393746f1f091ccc0ac82be
+    projectPath: Library\Artifacts\79\7941660ac7393746f1f091ccc0ac82be
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\79\79d87ea856709ea811952c3262c4552f
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\79\79d87ea856709ea811952c3262c4552f
+    projectPath: Library\Artifacts\79\79d87ea856709ea811952c3262c4552f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7b\7b611263b62dc9a413b239ce0f1a18d7
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\7b\7b611263b62dc9a413b239ce0f1a18d7
+    projectPath: Library\Artifacts\7b\7b611263b62dc9a413b239ce0f1a18d7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7c\7c0f2d09a66162c3a56d04522f482730
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\7c\7c0f2d09a66162c3a56d04522f482730
+    projectPath: Library\Artifacts\7c\7c0f2d09a66162c3a56d04522f482730
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7c\7c964a585001d249c9d25bcf2a8d42ce
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\7c\7c964a585001d249c9d25bcf2a8d42ce
+    projectPath: Library\Artifacts\7c\7c964a585001d249c9d25bcf2a8d42ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7f\7f57c0634a246aace1de78c09969450f
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\7f\7f57c0634a246aace1de78c09969450f
+    projectPath: Library\Artifacts\7f\7f57c0634a246aace1de78c09969450f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7f\7fa33574a9d4a9b8a8fceb3202b87a79
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\7f\7fa33574a9d4a9b8a8fceb3202b87a79
+    projectPath: Library\Artifacts\7f\7fa33574a9d4a9b8a8fceb3202b87a79
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\80\80405c56bb810eccc7c45cafb379ba78
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\80\80405c56bb810eccc7c45cafb379ba78
+    projectPath: Library\Artifacts\80\80405c56bb810eccc7c45cafb379ba78
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\84\840cc404080c1b2c8f507cb5cbc80dea
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\84\840cc404080c1b2c8f507cb5cbc80dea
+    projectPath: Library\Artifacts\84\840cc404080c1b2c8f507cb5cbc80dea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\84\84b1b3cb188454cd281e8579769368c6
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\84\84b1b3cb188454cd281e8579769368c6
+    projectPath: Library\Artifacts\84\84b1b3cb188454cd281e8579769368c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\86\86736aaaf5951363c26292272736c9a1
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\86\86736aaaf5951363c26292272736c9a1
+    projectPath: Library\Artifacts\86\86736aaaf5951363c26292272736c9a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\88\88aa30ad5167302435e8289a01540d6c
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\88\88aa30ad5167302435e8289a01540d6c
+    projectPath: Library\Artifacts\88\88aa30ad5167302435e8289a01540d6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8d\8d3b543e24ba4c9844ecd6e13f952299
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\8d\8d3b543e24ba4c9844ecd6e13f952299
+    projectPath: Library\Artifacts\8d\8d3b543e24ba4c9844ecd6e13f952299
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8e\8e8412d4968c527e411b5150d853c5eb
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\8e\8e8412d4968c527e411b5150d853c5eb
+    projectPath: Library\Artifacts\8e\8e8412d4968c527e411b5150d853c5eb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8e\8e84fa1ee1caf777c897395505ae9606
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\8e\8e84fa1ee1caf777c897395505ae9606
+    projectPath: Library\Artifacts\8e\8e84fa1ee1caf777c897395505ae9606
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8e\8ef21527d3a6db1cd95479857c8ae3f4
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\8e\8ef21527d3a6db1cd95479857c8ae3f4
+    projectPath: Library\Artifacts\8e\8ef21527d3a6db1cd95479857c8ae3f4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\93\931dc0aacb736ef3485de3ba29a8e3f8
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\93\931dc0aacb736ef3485de3ba29a8e3f8
+    projectPath: Library\Artifacts\93\931dc0aacb736ef3485de3ba29a8e3f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\93\933f729dbaa768e3cfd163aa861d506c
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\93\933f729dbaa768e3cfd163aa861d506c
+    projectPath: Library\Artifacts\93\933f729dbaa768e3cfd163aa861d506c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\94\94f02893fa63c0f2598c79f384604313
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\94\94f02893fa63c0f2598c79f384604313
+    projectPath: Library\Artifacts\94\94f02893fa63c0f2598c79f384604313
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\95\952b9924d2a6c8f79392b1a0727ae4b5
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\95\952b9924d2a6c8f79392b1a0727ae4b5
+    projectPath: Library\Artifacts\95\952b9924d2a6c8f79392b1a0727ae4b5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\95\95f5cc986fdddd505c089bcd43a8838d
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\95\95f5cc986fdddd505c089bcd43a8838d
+    projectPath: Library\Artifacts\95\95f5cc986fdddd505c089bcd43a8838d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\97\9727c3a5a578d487e31a52069d8b9275
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\97\9727c3a5a578d487e31a52069d8b9275
+    projectPath: Library\Artifacts\97\9727c3a5a578d487e31a52069d8b9275
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\98\984298722160065f92452b04c4cc97bb
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\98\984298722160065f92452b04c4cc97bb
+    projectPath: Library\Artifacts\98\984298722160065f92452b04c4cc97bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\99\996d99a0b31dd1e4ee0be1693576d7a3
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\99\996d99a0b31dd1e4ee0be1693576d7a3
+    projectPath: Library\Artifacts\99\996d99a0b31dd1e4ee0be1693576d7a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\99\99b86308a79b8ad69e61425019cf7663
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\99\99b86308a79b8ad69e61425019cf7663
+    projectPath: Library\Artifacts\99\99b86308a79b8ad69e61425019cf7663
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9a\9ac1de357d0dfb95940cc79c0150aae6
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\9a\9ac1de357d0dfb95940cc79c0150aae6
+    projectPath: Library\Artifacts\9a\9ac1de357d0dfb95940cc79c0150aae6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9a\9adb2bd552b5124975851b1485a3da58
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\9a\9adb2bd552b5124975851b1485a3da58
+    projectPath: Library\Artifacts\9a\9adb2bd552b5124975851b1485a3da58
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9a\9ae6e8c6375a233b282807cc58cd29e6
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\9a\9ae6e8c6375a233b282807cc58cd29e6
+    projectPath: Library\Artifacts\9a\9ae6e8c6375a233b282807cc58cd29e6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9b\9b1b7244b156797cc06c322b8d0c2b45
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\9b\9b1b7244b156797cc06c322b8d0c2b45
+    projectPath: Library\Artifacts\9b\9b1b7244b156797cc06c322b8d0c2b45
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9b\9b2448dd8b4e6872fc60ec5c17e1be90
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\9b\9b2448dd8b4e6872fc60ec5c17e1be90
+    projectPath: Library\Artifacts\9b\9b2448dd8b4e6872fc60ec5c17e1be90
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9b\9ba2fe2647f92de7a6c83b0f1ff4f8b0
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\9b\9ba2fe2647f92de7a6c83b0f1ff4f8b0
+    projectPath: Library\Artifacts\9b\9ba2fe2647f92de7a6c83b0f1ff4f8b0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9f\9f84fe803cce34e9c7b8e3dffd3ae51d
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\9f\9f84fe803cce34e9c7b8e3dffd3ae51d
+    projectPath: Library\Artifacts\9f\9f84fe803cce34e9c7b8e3dffd3ae51d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a0\a004cb8c6e2cc8c2d40c76f5724c9980
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\a0\a004cb8c6e2cc8c2d40c76f5724c9980
+    projectPath: Library\Artifacts\a0\a004cb8c6e2cc8c2d40c76f5724c9980
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a0\a01b1a4808da24d6a1eb7371c636ceba
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\a0\a01b1a4808da24d6a1eb7371c636ceba
+    projectPath: Library\Artifacts\a0\a01b1a4808da24d6a1eb7371c636ceba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a3\a36ee2748e1dc9d7c6f43815d0283162
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\a3\a36ee2748e1dc9d7c6f43815d0283162
+    projectPath: Library\Artifacts\a3\a36ee2748e1dc9d7c6f43815d0283162
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a4\a4578058189e4985f41f8a880eced59d
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\a4\a4578058189e4985f41f8a880eced59d
+    projectPath: Library\Artifacts\a4\a4578058189e4985f41f8a880eced59d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a5\a582207ee23831a02de00841e3bc7bd4
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\a5\a582207ee23831a02de00841e3bc7bd4
+    projectPath: Library\Artifacts\a5\a582207ee23831a02de00841e3bc7bd4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a6\a61418d83bda7ff3030589e74a0ceb76
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\a6\a61418d83bda7ff3030589e74a0ceb76
+    projectPath: Library\Artifacts\a6\a61418d83bda7ff3030589e74a0ceb76
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a7\a77b72fc43518a6b484cd0ad034167a1
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\a7\a77b72fc43518a6b484cd0ad034167a1
+    projectPath: Library\Artifacts\a7\a77b72fc43518a6b484cd0ad034167a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a9\a9d56b1d1f50c8fc4129da58c5ad84ad
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\a9\a9d56b1d1f50c8fc4129da58c5ad84ad
+    projectPath: Library\Artifacts\a9\a9d56b1d1f50c8fc4129da58c5ad84ad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ab\ab4c89973db53f2c0c588e6903bde5ff
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\ab\ab4c89973db53f2c0c588e6903bde5ff
+    projectPath: Library\Artifacts\ab\ab4c89973db53f2c0c588e6903bde5ff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\af\af64bc8cc308d281e6bf596c9606b8e4
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\af\af64bc8cc308d281e6bf596c9606b8e4
+    projectPath: Library\Artifacts\af\af64bc8cc308d281e6bf596c9606b8e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b0\b092fa832ca747d3d8d6053d2e39b1e6
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\b0\b092fa832ca747d3d8d6053d2e39b1e6
+    projectPath: Library\Artifacts\b0\b092fa832ca747d3d8d6053d2e39b1e6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b3\b38e469e9b8ab43937767bddaab4de30
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\b3\b38e469e9b8ab43937767bddaab4de30
+    projectPath: Library\Artifacts\b3\b38e469e9b8ab43937767bddaab4de30
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\b6\b6913c8aaa424bbf268d4a65249e5f4c
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\b6\b6913c8aaa424bbf268d4a65249e5f4c
+    projectPath: Library\Artifacts\b6\b6913c8aaa424bbf268d4a65249e5f4c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\b7\b73469cb450a2972bd3b73c5abc15e26
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\b7\b73469cb450a2972bd3b73c5abc15e26
+    projectPath: Library\Artifacts\b7\b73469cb450a2972bd3b73c5abc15e26
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b9\b95367b35883d01cac38382019870cc8
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\b9\b95367b35883d01cac38382019870cc8
+    projectPath: Library\Artifacts\b9\b95367b35883d01cac38382019870cc8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b9\b9e9449248e410bb05f8ba7f767da4f5
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\b9\b9e9449248e410bb05f8ba7f767da4f5
+    projectPath: Library\Artifacts\b9\b9e9449248e410bb05f8ba7f767da4f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bb\bb2c5a461f51461d8367bace7cd62eb8
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\bb\bb2c5a461f51461d8367bace7cd62eb8
+    projectPath: Library\Artifacts\bb\bb2c5a461f51461d8367bace7cd62eb8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bc\bc244a277ba4372e9bd1e24834855830
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\bc\bc244a277ba4372e9bd1e24834855830
+    projectPath: Library\Artifacts\bc\bc244a277ba4372e9bd1e24834855830
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bd\bd3943180d899c2e1a6779d793825ebb
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\bd\bd3943180d899c2e1a6779d793825ebb
+    projectPath: Library\Artifacts\bd\bd3943180d899c2e1a6779d793825ebb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bd\bd6286f0a85fee21547e0779c3c9f60d
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\bd\bd6286f0a85fee21547e0779c3c9f60d
+    projectPath: Library\Artifacts\bd\bd6286f0a85fee21547e0779c3c9f60d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\be\becab76ebda100f968fec690cedd926e
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\be\becab76ebda100f968fec690cedd926e
+    projectPath: Library\Artifacts\be\becab76ebda100f968fec690cedd926e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c0\c0b176b7d41d76917d96bbd1bb7f7074
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\c0\c0b176b7d41d76917d96bbd1bb7f7074
+    projectPath: Library\Artifacts\c0\c0b176b7d41d76917d96bbd1bb7f7074
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c1\c12f93ba7120aca46355affb7194ceea
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\c1\c12f93ba7120aca46355affb7194ceea
+    projectPath: Library\Artifacts\c1\c12f93ba7120aca46355affb7194ceea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c1\c1e4510ebc47c65c4d84d13af2b47495
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\c1\c1e4510ebc47c65c4d84d13af2b47495
+    projectPath: Library\Artifacts\c1\c1e4510ebc47c65c4d84d13af2b47495
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c2\c27b451747f56e936f65d4c9d19e7d55
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\c2\c27b451747f56e936f65d4c9d19e7d55
+    projectPath: Library\Artifacts\c2\c27b451747f56e936f65d4c9d19e7d55
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c2\c2c8dcae2c1bed7810b1d3dda5963897
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\c2\c2c8dcae2c1bed7810b1d3dda5963897
+    projectPath: Library\Artifacts\c2\c2c8dcae2c1bed7810b1d3dda5963897
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c3\c3f5cb98e03411975911e7eb4a40e51e
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\c3\c3f5cb98e03411975911e7eb4a40e51e
+    projectPath: Library\Artifacts\c3\c3f5cb98e03411975911e7eb4a40e51e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c4\c4a041710301c57ca0e6bb2b3c6d4778
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\c4\c4a041710301c57ca0e6bb2b3c6d4778
+    projectPath: Library\Artifacts\c4\c4a041710301c57ca0e6bb2b3c6d4778
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c5\c5ccb9ceeb13ee63fbc690bfba635d6e
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\c5\c5ccb9ceeb13ee63fbc690bfba635d6e
+    projectPath: Library\Artifacts\c5\c5ccb9ceeb13ee63fbc690bfba635d6e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c6\c6cd7a44e5265ee24cb218b12a2b4e3d
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\c6\c6cd7a44e5265ee24cb218b12a2b4e3d
+    projectPath: Library\Artifacts\c6\c6cd7a44e5265ee24cb218b12a2b4e3d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c9\c91f746925a577fe05e8b81e7d20fca3
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\c9\c91f746925a577fe05e8b81e7d20fca3
+    projectPath: Library\Artifacts\c9\c91f746925a577fe05e8b81e7d20fca3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c9\c93f92f0b5746a6c34477b56645c44f3
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\c9\c93f92f0b5746a6c34477b56645c44f3
+    projectPath: Library\Artifacts\c9\c93f92f0b5746a6c34477b56645c44f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cd\cd5362f5a8acfb58beae392ebaa43bc7
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\cd\cd5362f5a8acfb58beae392ebaa43bc7
+    projectPath: Library\Artifacts\cd\cd5362f5a8acfb58beae392ebaa43bc7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cd\cd65df5386122bffd0c7ebed60a9890c
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\cd\cd65df5386122bffd0c7ebed60a9890c
+    projectPath: Library\Artifacts\cd\cd65df5386122bffd0c7ebed60a9890c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\d1\d102e05666607c397a5e811550c354c1
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\d1\d102e05666607c397a5e811550c354c1
+    projectPath: Library\Artifacts\d1\d102e05666607c397a5e811550c354c1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d1\d1560972d025e5b31a55bea8e5534eb4
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\d1\d1560972d025e5b31a55bea8e5534eb4
+    projectPath: Library\Artifacts\d1\d1560972d025e5b31a55bea8e5534eb4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d2\d2d6c30e75fdbc02255a14464b7e62ab
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\d2\d2d6c30e75fdbc02255a14464b7e62ab
+    projectPath: Library\Artifacts\d2\d2d6c30e75fdbc02255a14464b7e62ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d4\d4643af75f7c4b9f916c8fc413cbcb9c
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\d4\d4643af75f7c4b9f916c8fc413cbcb9c
+    projectPath: Library\Artifacts\d4\d4643af75f7c4b9f916c8fc413cbcb9c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d4\d4872269bf963673d14e8137cb7cbee8
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\d4\d4872269bf963673d14e8137cb7cbee8
+    projectPath: Library\Artifacts\d4\d4872269bf963673d14e8137cb7cbee8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d5\d5975eace39d5377eaaeddc164fbd9d7
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\d5\d5975eace39d5377eaaeddc164fbd9d7
+    projectPath: Library\Artifacts\d5\d5975eace39d5377eaaeddc164fbd9d7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d5\d5e0ee8b501a6caeb5ef0439d6ac438b
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\d5\d5e0ee8b501a6caeb5ef0439d6ac438b
+    projectPath: Library\Artifacts\d5\d5e0ee8b501a6caeb5ef0439d6ac438b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d7\d7cb514056ba0373b872bbfd9986f1e1
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\d7\d7cb514056ba0373b872bbfd9986f1e1
+    projectPath: Library\Artifacts\d7\d7cb514056ba0373b872bbfd9986f1e1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d8\d8cf75d439e2200a411281f60d2f87c6
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\d8\d8cf75d439e2200a411281f60d2f87c6
+    projectPath: Library\Artifacts\d8\d8cf75d439e2200a411281f60d2f87c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d9\d921f5e01eb110fa0035e460e25052f8
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\d9\d921f5e01eb110fa0035e460e25052f8
+    projectPath: Library\Artifacts\d9\d921f5e01eb110fa0035e460e25052f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\da\daaa984d098f895d445612467fb881d5
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\da\daaa984d098f895d445612467fb881d5
+    projectPath: Library\Artifacts\da\daaa984d098f895d445612467fb881d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\db\db454055e1603d05954631e43c8b11ae
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\db\db454055e1603d05954631e43c8b11ae
+    projectPath: Library\Artifacts\db\db454055e1603d05954631e43c8b11ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\dd\dd07997d1c968e528af4087e7b8df113
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\dd\dd07997d1c968e528af4087e7b8df113
+    projectPath: Library\Artifacts\dd\dd07997d1c968e528af4087e7b8df113
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e0\e04ba76c7c03cc6404354713e4d3ab48
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\e0\e04ba76c7c03cc6404354713e4d3ab48
+    projectPath: Library\Artifacts\e0\e04ba76c7c03cc6404354713e4d3ab48
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e1\e15cc7f912a7bb47187ec06f2e4494fa
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\e1\e15cc7f912a7bb47187ec06f2e4494fa
+    projectPath: Library\Artifacts\e1\e15cc7f912a7bb47187ec06f2e4494fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e2\e2f559d46617536b33cac9c8505417ad
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\e2\e2f559d46617536b33cac9c8505417ad
+    projectPath: Library\Artifacts\e2\e2f559d46617536b33cac9c8505417ad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e5\e57e818a3e0e846d4224442f43890c3d
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\e5\e57e818a3e0e846d4224442f43890c3d
+    projectPath: Library\Artifacts\e5\e57e818a3e0e846d4224442f43890c3d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e9\e9ca40b5fda81f695c2437e741e39c19
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\e9\e9ca40b5fda81f695c2437e741e39c19
+    projectPath: Library\Artifacts\e9\e9ca40b5fda81f695c2437e741e39c19
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ea\eac03019ea800264efb4532b92da9242
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\ea\eac03019ea800264efb4532b92da9242
+    projectPath: Library\Artifacts\ea\eac03019ea800264efb4532b92da9242
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ed\ed102eaadfb6b229adf25e43ad0a9d69
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\ed\ed102eaadfb6b229adf25e43ad0a9d69
+    projectPath: Library\Artifacts\ed\ed102eaadfb6b229adf25e43ad0a9d69
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ed\eda00ea12130ffd838d230733ad2ac0c
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\ed\eda00ea12130ffd838d230733ad2ac0c
+    projectPath: Library\Artifacts\ed\eda00ea12130ffd838d230733ad2ac0c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f0\f079e56d38569d904c296f074700d4dd
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\f0\f079e56d38569d904c296f074700d4dd
+    projectPath: Library\Artifacts\f0\f079e56d38569d904c296f074700d4dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f0\f0a39aac0fb5166ef86b5943090a652f
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\f0\f0a39aac0fb5166ef86b5943090a652f
+    projectPath: Library\Artifacts\f0\f0a39aac0fb5166ef86b5943090a652f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f1\f103e53c086f7b03cfb5dbad18be97fd
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\f1\f103e53c086f7b03cfb5dbad18be97fd
+    projectPath: Library\Artifacts\f1\f103e53c086f7b03cfb5dbad18be97fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f1\f1f54366ec963d656e7d267b3a5d08aa
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\f1\f1f54366ec963d656e7d267b3a5d08aa
+    projectPath: Library\Artifacts\f1\f1f54366ec963d656e7d267b3a5d08aa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f2\f2eecc39aca430c9da5e505c228fb5e8
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\f2\f2eecc39aca430c9da5e505c228fb5e8
+    projectPath: Library\Artifacts\f2\f2eecc39aca430c9da5e505c228fb5e8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f4\f47a9f1d1d87741c5b5602fe74f3b42f
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\f4\f47a9f1d1d87741c5b5602fe74f3b42f
+    projectPath: Library\Artifacts\f4\f47a9f1d1d87741c5b5602fe74f3b42f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f6\f61bd3b96b84cc1bfe1cf8cdf3e83b60
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\f6\f61bd3b96b84cc1bfe1cf8cdf3e83b60
+    projectPath: Library\Artifacts\f6\f61bd3b96b84cc1bfe1cf8cdf3e83b60
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f6\f644c555ec81779049026f8893fb310d
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\f6\f644c555ec81779049026f8893fb310d
+    projectPath: Library\Artifacts\f6\f644c555ec81779049026f8893fb310d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fa\fa7743de689e9fab82cec9b4522094fc
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\fa\fa7743de689e9fab82cec9b4522094fc
+    projectPath: Library\Artifacts\fa\fa7743de689e9fab82cec9b4522094fc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fb\fb298f247329dc847bda1f19a8cc5b7c
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\fb\fb298f247329dc847bda1f19a8cc5b7c
+    projectPath: Library\Artifacts\fb\fb298f247329dc847bda1f19a8cc5b7c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fd\fd2d647dbc8787b5eb0e52186ed7a8b5
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\fd\fd2d647dbc8787b5eb0e52186ed7a8b5
+    projectPath: Library\Artifacts\fd\fd2d647dbc8787b5eb0e52186ed7a8b5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fe\fe2738a9c6588ab6951172b589fb6d93
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\fe\fe2738a9c6588ab6951172b589fb6d93
+    projectPath: Library\Artifacts\fe\fe2738a9c6588ab6951172b589fb6d93
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fe\fe6d45106eed0529d5052a900823ff2b
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Artifacts\fe\fe6d45106eed0529d5052a900823ff2b
+    projectPath: Library\Artifacts\fe\fe6d45106eed0529d5052a900823ff2b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Collab\CollabSnapshot_0dec1a30-0cfc-47a7-bfc6-fff4bc02879d.txt
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\Collab\CollabSnapshot_0dec1a30-0cfc-47a7-bfc6-fff4bc02879d.txt
+    projectPath: Library\Collab\CollabSnapshot_0dec1a30-0cfc-47a7-bfc6-fff4bc02879d.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitfilelog.yaml
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\gfu\cache\gitfilelog.yaml
+    projectPath: Library\gfu\cache\gitfilelog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SceneVisibilityState.asset
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\PsdPlugin.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\PsdPlugin.dll
+    projectPath: Library\ScriptAssemblies\PsdPlugin.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Mathematics.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Unity.Mathematics.dll
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\0\006b85a302c88294998e48222ed7282c.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\0\006b85a302c88294998e48222ed7282c.bin
+    projectPath: Library\ShaderCache\0\006b85a302c88294998e48222ed7282c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\017f2765f250e2efbae2bb90d24a9cba.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\0\017f2765f250e2efbae2bb90d24a9cba.bin
+    projectPath: Library\ShaderCache\0\017f2765f250e2efbae2bb90d24a9cba.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\01ed2a1757ed06d7f7b17b1a61c1b66b.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\0\01ed2a1757ed06d7f7b17b1a61c1b66b.bin
+    projectPath: Library\ShaderCache\0\01ed2a1757ed06d7f7b17b1a61c1b66b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0613faf39db0473db67816b1a27dc3b8.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\0\0613faf39db0473db67816b1a27dc3b8.bin
+    projectPath: Library\ShaderCache\0\0613faf39db0473db67816b1a27dc3b8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0cd0d0e04a78a0ba7615b9c68c3127e4.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\0\0cd0d0e04a78a0ba7615b9c68c3127e4.bin
+    projectPath: Library\ShaderCache\0\0cd0d0e04a78a0ba7615b9c68c3127e4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1489ccb793dd8fcf132f85f273d51d04.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\1\1489ccb793dd8fcf132f85f273d51d04.bin
+    projectPath: Library\ShaderCache\1\1489ccb793dd8fcf132f85f273d51d04.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1de8d2ad8940d0ae6ba152b50c6079f9.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\1\1de8d2ad8940d0ae6ba152b50c6079f9.bin
+    projectPath: Library\ShaderCache\1\1de8d2ad8940d0ae6ba152b50c6079f9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2156084ea2d8cfa5c4d1010fc7e91232.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\2\2156084ea2d8cfa5c4d1010fc7e91232.bin
+    projectPath: Library\ShaderCache\2\2156084ea2d8cfa5c4d1010fc7e91232.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2e5fca9a9836b9e886f851d5c500ec8d.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\2\2e5fca9a9836b9e886f851d5c500ec8d.bin
+    projectPath: Library\ShaderCache\2\2e5fca9a9836b9e886f851d5c500ec8d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\34bbdd9a48ee7b22c188017656aafbc3.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\3\34bbdd9a48ee7b22c188017656aafbc3.bin
+    projectPath: Library\ShaderCache\3\34bbdd9a48ee7b22c188017656aafbc3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3d9b0e2f95b09ad699283086cce33c91.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\3\3d9b0e2f95b09ad699283086cce33c91.bin
+    projectPath: Library\ShaderCache\3\3d9b0e2f95b09ad699283086cce33c91.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3f84dac38660a2fb537ea57b16b63ba2.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\3\3f84dac38660a2fb537ea57b16b63ba2.bin
+    projectPath: Library\ShaderCache\3\3f84dac38660a2fb537ea57b16b63ba2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\41759d4a356a0c212cf5b8878caa0300.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\4\41759d4a356a0c212cf5b8878caa0300.bin
+    projectPath: Library\ShaderCache\4\41759d4a356a0c212cf5b8878caa0300.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\45fd54a055fe56e552cf2677a0dd2e7a.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\4\45fd54a055fe56e552cf2677a0dd2e7a.bin
+    projectPath: Library\ShaderCache\4\45fd54a055fe56e552cf2677a0dd2e7a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4b6e0bd4185d25be374299448bd74a09.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\4\4b6e0bd4185d25be374299448bd74a09.bin
+    projectPath: Library\ShaderCache\4\4b6e0bd4185d25be374299448bd74a09.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4e085549fbae9912cf06e23cdc23f703.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\4\4e085549fbae9912cf06e23cdc23f703.bin
+    projectPath: Library\ShaderCache\4\4e085549fbae9912cf06e23cdc23f703.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4e350e7fa6b1528e2206eb2088ee481a.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\4\4e350e7fa6b1528e2206eb2088ee481a.bin
+    projectPath: Library\ShaderCache\4\4e350e7fa6b1528e2206eb2088ee481a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4fbb4dee1584a20091e1afb8795090fd.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\4\4fbb4dee1584a20091e1afb8795090fd.bin
+    projectPath: Library\ShaderCache\4\4fbb4dee1584a20091e1afb8795090fd.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5039e9e63f3107275c09fe2a66870b31.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\5\5039e9e63f3107275c09fe2a66870b31.bin
+    projectPath: Library\ShaderCache\5\5039e9e63f3107275c09fe2a66870b31.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\513023751b5fde6f8a4ee9571b390465.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\5\513023751b5fde6f8a4ee9571b390465.bin
+    projectPath: Library\ShaderCache\5\513023751b5fde6f8a4ee9571b390465.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5441bbb3a30352849343baadc1174623.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\5\5441bbb3a30352849343baadc1174623.bin
+    projectPath: Library\ShaderCache\5\5441bbb3a30352849343baadc1174623.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\57684e6cbbe3f1a62261c803e88178f3.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\5\57684e6cbbe3f1a62261c803e88178f3.bin
+    projectPath: Library\ShaderCache\5\57684e6cbbe3f1a62261c803e88178f3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5b742c05f55398a226e72342e9740b55.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\5\5b742c05f55398a226e72342e9740b55.bin
+    projectPath: Library\ShaderCache\5\5b742c05f55398a226e72342e9740b55.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\61432dec1acb006008e6109840451c40.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\6\61432dec1acb006008e6109840451c40.bin
+    projectPath: Library\ShaderCache\6\61432dec1acb006008e6109840451c40.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\64eb12bf5b41f7bf5a5d93bec3fb280b.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\6\64eb12bf5b41f7bf5a5d93bec3fb280b.bin
+    projectPath: Library\ShaderCache\6\64eb12bf5b41f7bf5a5d93bec3fb280b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\695927063cd3c082c8763470325fd0ba.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\6\695927063cd3c082c8763470325fd0ba.bin
+    projectPath: Library\ShaderCache\6\695927063cd3c082c8763470325fd0ba.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\71059bee351076d9d4738495ad50425c.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\7\71059bee351076d9d4738495ad50425c.bin
+    projectPath: Library\ShaderCache\7\71059bee351076d9d4738495ad50425c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\737adcd1b7caeb4571ab03bde5e88b7e.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\7\737adcd1b7caeb4571ab03bde5e88b7e.bin
+    projectPath: Library\ShaderCache\7\737adcd1b7caeb4571ab03bde5e88b7e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7796b1d31cb469c4127595d719cea8eb.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\7\7796b1d31cb469c4127595d719cea8eb.bin
+    projectPath: Library\ShaderCache\7\7796b1d31cb469c4127595d719cea8eb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\886d19c160de9f098cf73afdc79c7a1d.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\8\886d19c160de9f098cf73afdc79c7a1d.bin
+    projectPath: Library\ShaderCache\8\886d19c160de9f098cf73afdc79c7a1d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\8ea81f8a3f5453a035a22f3575db26e3.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\8\8ea81f8a3f5453a035a22f3575db26e3.bin
+    projectPath: Library\ShaderCache\8\8ea81f8a3f5453a035a22f3575db26e3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\97d3827a645c9bf081c67fcb68641e0d.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\9\97d3827a645c9bf081c67fcb68641e0d.bin
+    projectPath: Library\ShaderCache\9\97d3827a645c9bf081c67fcb68641e0d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9a40128809a40046dedb8c6ce67e93d4.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\9\9a40128809a40046dedb8c6ce67e93d4.bin
+    projectPath: Library\ShaderCache\9\9a40128809a40046dedb8c6ce67e93d4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9bda0c7fd1d42f12f5555aa18289cae5.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\9\9bda0c7fd1d42f12f5555aa18289cae5.bin
+    projectPath: Library\ShaderCache\9\9bda0c7fd1d42f12f5555aa18289cae5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9cc1465493ab750a89abbe15839ced27.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\9\9cc1465493ab750a89abbe15839ced27.bin
+    projectPath: Library\ShaderCache\9\9cc1465493ab750a89abbe15839ced27.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a3568d25d1fd4a55bac19fa5a6d7d84e.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\a\a3568d25d1fd4a55bac19fa5a6d7d84e.bin
+    projectPath: Library\ShaderCache\a\a3568d25d1fd4a55bac19fa5a6d7d84e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a36566315719ef8175cd3878bd0adfff.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\a\a36566315719ef8175cd3878bd0adfff.bin
+    projectPath: Library\ShaderCache\a\a36566315719ef8175cd3878bd0adfff.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a705e9d4e6a6baa8705722b89aad2470.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\a\a705e9d4e6a6baa8705722b89aad2470.bin
+    projectPath: Library\ShaderCache\a\a705e9d4e6a6baa8705722b89aad2470.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b02ef0b823735e7a4625c6d400b97f8f.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\b\b02ef0b823735e7a4625c6d400b97f8f.bin
+    projectPath: Library\ShaderCache\b\b02ef0b823735e7a4625c6d400b97f8f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b1ebb15aa58e1a8067724e598d3c8495.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\b\b1ebb15aa58e1a8067724e598d3c8495.bin
+    projectPath: Library\ShaderCache\b\b1ebb15aa58e1a8067724e598d3c8495.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b3f11ce5d972888fc03e057832f237ed.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\b\b3f11ce5d972888fc03e057832f237ed.bin
+    projectPath: Library\ShaderCache\b\b3f11ce5d972888fc03e057832f237ed.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b641db4ff825a984647a9b2039283e87.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\b\b641db4ff825a984647a9b2039283e87.bin
+    projectPath: Library\ShaderCache\b\b641db4ff825a984647a9b2039283e87.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b67e53cfbb87eecf3d6f882c8a197f63.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\b\b67e53cfbb87eecf3d6f882c8a197f63.bin
+    projectPath: Library\ShaderCache\b\b67e53cfbb87eecf3d6f882c8a197f63.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b98fb527eb4619de9c9c4296d3cfc054.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\b\b98fb527eb4619de9c9c4296d3cfc054.bin
+    projectPath: Library\ShaderCache\b\b98fb527eb4619de9c9c4296d3cfc054.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\bcbf878135537460f19ed2acf87bf3ee.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\b\bcbf878135537460f19ed2acf87bf3ee.bin
+    projectPath: Library\ShaderCache\b\bcbf878135537460f19ed2acf87bf3ee.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c5a5745ef1844560e36a42bce0084103.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\c\c5a5745ef1844560e36a42bce0084103.bin
+    projectPath: Library\ShaderCache\c\c5a5745ef1844560e36a42bce0084103.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\ca7caf4f5e5664e84e4e33f261aba312.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\c\ca7caf4f5e5664e84e4e33f261aba312.bin
+    projectPath: Library\ShaderCache\c\ca7caf4f5e5664e84e4e33f261aba312.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d07ed21c4ad9481a8b459bd9a929b2f7.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\d\d07ed21c4ad9481a8b459bd9a929b2f7.bin
+    projectPath: Library\ShaderCache\d\d07ed21c4ad9481a8b459bd9a929b2f7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e2a86fb55e5a6b2aa738da404a4c645c.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\e\e2a86fb55e5a6b2aa738da404a4c645c.bin
+    projectPath: Library\ShaderCache\e\e2a86fb55e5a6b2aa738da404a4c645c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e8116dcd4cc59704fd5c54ef025a69d7.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\e\e8116dcd4cc59704fd5c54ef025a69d7.bin
+    projectPath: Library\ShaderCache\e\e8116dcd4cc59704fd5c54ef025a69d7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e8ff0ca450f120da7a5cf9ae84178b62.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\e\e8ff0ca450f120da7a5cf9ae84178b62.bin
+    projectPath: Library\ShaderCache\e\e8ff0ca450f120da7a5cf9ae84178b62.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\f\f630e98320c93a7e53de6c996b2c1ca6.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\f\f630e98320c93a7e53de6c996b2c1ca6.bin
+    projectPath: Library\ShaderCache\f\f630e98320c93a7e53de6c996b2c1ca6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\fd3bb0c65baa51f8a841f9124c9451a7.bin
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\ShaderCache\f\fd3bb0c65baa51f8a841f9124c9451a7.bin
+    projectPath: Library\ShaderCache\f\fd3bb0c65baa51f8a841f9124c9451a7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\SourceAssetDB
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\Hierarchy\2034ba-5dca9371b06e725429.json
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\StateCache\Hierarchy\2034ba-5dca9371b06e725429.json
+    projectPath: Library\StateCache\Hierarchy\2034ba-5dca9371b06e725429.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\Hierarchy\2034ba-e0f66cf4479866949a.json
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\StateCache\Hierarchy\2034ba-e0f66cf4479866949a.json
+    projectPath: Library\StateCache\Hierarchy\2034ba-e0f66cf4479866949a.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\Hierarchy\2034ba-fb8d835ad76eb6c4da.json
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\StateCache\Hierarchy\2034ba-fb8d835ad76eb6c4da.json
+    projectPath: Library\StateCache\Hierarchy\2034ba-fb8d835ad76eb6c4da.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\Hierarchy\2034ba-mainStage.json
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\StateCache\Hierarchy\2034ba-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\2034ba-mainStage.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\Hierarchy\5e411d-mainStage.json
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\StateCache\Hierarchy\5e411d-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\5e411d-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\bebfda-5dca9371b06e725429.json
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\StateCache\SceneView\bebfda-5dca9371b06e725429.json
+    projectPath: Library\StateCache\SceneView\bebfda-5dca9371b06e725429.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\SceneView\bebfda-e0f66cf4479866949a.json
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\StateCache\SceneView\bebfda-e0f66cf4479866949a.json
+    projectPath: Library\StateCache\SceneView\bebfda-e0f66cf4479866949a.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\SceneView\bebfda-fb8d835ad76eb6c4da.json
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\StateCache\SceneView\bebfda-fb8d835ad76eb6c4da.json
+    projectPath: Library\StateCache\SceneView\bebfda-fb8d835ad76eb6c4da.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\SceneView\bebfda-mainStage.json
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Library\StateCache\SceneView\bebfda-mainStage.json
+    projectPath: Library\StateCache\SceneView\bebfda-mainStage.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\TagManager.asset
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0eba49ab7a6dc1a46ae1b407b86bb996
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Temp\UnityTempFile-0eba49ab7a6dc1a46ae1b407b86bb996
+    projectPath: Temp\UnityTempFile-0eba49ab7a6dc1a46ae1b407b86bb996
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-15493728327e09947abd050515e8e7f0
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Temp\UnityTempFile-15493728327e09947abd050515e8e7f0
+    projectPath: Temp\UnityTempFile-15493728327e09947abd050515e8e7f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-286cf96f23bd0b8449c1597a689b621c
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Temp\UnityTempFile-286cf96f23bd0b8449c1597a689b621c
+    projectPath: Temp\UnityTempFile-286cf96f23bd0b8449c1597a689b621c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5de53cd138bba8546bb5107e5e03785c
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Temp\UnityTempFile-5de53cd138bba8546bb5107e5e03785c
+    projectPath: Temp\UnityTempFile-5de53cd138bba8546bb5107e5e03785c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6fe845a79baf6f24cba5ed7b7544a366
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Temp\UnityTempFile-6fe845a79baf6f24cba5ed7b7544a366
+    projectPath: Temp\UnityTempFile-6fe845a79baf6f24cba5ed7b7544a366
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-718d30a99c4dde84fa144ff8703add45
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Temp\UnityTempFile-718d30a99c4dde84fa144ff8703add45
+    projectPath: Temp\UnityTempFile-718d30a99c4dde84fa144ff8703add45
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a13b2f5da54178640bc6d2d78f9985c6
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Temp\UnityTempFile-a13b2f5da54178640bc6d2d78f9985c6
+    projectPath: Temp\UnityTempFile-a13b2f5da54178640bc6d2d78f9985c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c4802ba237b4b784a9455452172c7a27
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Temp\UnityTempFile-c4802ba237b4b784a9455452172c7a27
+    projectPath: Temp\UnityTempFile-c4802ba237b4b784a9455452172c7a27
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c70fb2e9726328747913ac6609c7170f
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Temp\UnityTempFile-c70fb2e9726328747913ac6609c7170f
+    projectPath: Temp\UnityTempFile-c70fb2e9726328747913ac6609c7170f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c90d4c00de756004a85dcd977337f239
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Temp\UnityTempFile-c90d4c00de756004a85dcd977337f239
+    projectPath: Temp\UnityTempFile-c90d4c00de756004a85dcd977337f239
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f07e1d47b17894345a6b2bfc47258a6e
+    fullPath: C:\Users\hssan\OneDrive\Desktop\Snake\Snake_Test\Temp\UnityTempFile-f07e1d47b17894345a6b2bfc47258a6e
+    projectPath: Temp\UnityTempFile-f07e1d47b17894345a6b2bfc47258a6e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
